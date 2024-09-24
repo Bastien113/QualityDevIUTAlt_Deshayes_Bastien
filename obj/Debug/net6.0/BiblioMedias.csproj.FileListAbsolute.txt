@@ -1,0 +1,15 @@
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\bin\Debug\net6.0\BiblioMedias.exe
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\bin\Debug\net6.0\BiblioMedias.deps.json
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\bin\Debug\net6.0\BiblioMedias.runtimeconfig.json
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\bin\Debug\net6.0\BiblioMedias.dll
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\bin\Debug\net6.0\BiblioMedias.pdb
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.csproj.AssemblyReference.cache
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.GeneratedMSBuildEditorConfig.editorconfig
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.AssemblyInfoInputs.cache
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.AssemblyInfo.cs
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.csproj.CoreCompileInputs.cache
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.dll
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\refint\BiblioMedias.dll
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.pdb
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\BiblioMedias.genruntimeconfig.cache
+C:\BUT informatique\Semestre 5\Qualité de développement\BiblioMedias\obj\Debug\net6.0\ref\BiblioMedias.dll
